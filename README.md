@@ -1,6 +1,6 @@
 # Excel Data Engineering Pipeline
 
-A robust Python-based tool designed for automated consolidation of technical Excel workbooks (BOMs) with integrated structural validation and formatting checks.
+Python-based tool designed for automated consolidation of technical Excel workbooks with integrated structural validation and formatting checks.
 
 ## 🚀 Overview
 
@@ -30,3 +30,4 @@ This project was built to solve the common issue of inconsistent data structures
 ├── logger_config.py     # Utilities: professional logging setup
 ├── config.example.yaml  # Template for configuration
 └── requirements.txt     # Project dependencies
+
