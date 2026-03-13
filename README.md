@@ -23,6 +23,7 @@ This project was built to solve the common issue of inconsistent data structures
 
 ## 📁 Project Structure
 
+```text
 ├── main.py              # Entry point: orchestration of the pipeline
 ├── src/                 # Source code directory
 │   ├── merger.py        # Data merging engine
@@ -31,6 +32,7 @@ This project was built to solve the common issue of inconsistent data structures
 ├── README.md            # Project documentation
 ├── config_example.yaml  # Configuration template
 └── requirements.txt     # Dependencies
+
 
 
 
