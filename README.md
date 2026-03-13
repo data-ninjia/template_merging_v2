@@ -23,11 +23,14 @@ This project was built to solve the common issue of inconsistent data structures
 
 ## 📁 Project Structure
 
-```text
-├── main.py              # Orchestrator: manages the pipeline flow
-├── validators.py        # Logic: independent validation methods
-├── merger.py            # Engine: handles data & style transfer
-├── logger_config.py     # Utilities: professional logging setup
-├── config.example.yaml  # Template for configuration
-└── requirements.txt     # Project dependencies
+├── main.py              # Entry point: orchestration of the pipeline
+├── src/                 # Source code directory
+│   ├── merger.py        # Data merging engine
+│   ├── validators.py    # Structural & format validation logic
+│   └── logger_config.py # Logging utilities
+├── README.md            # Project documentation
+├── config_example.yaml  # Configuration template
+└── requirements.txt     # Dependencies
+
+
 
