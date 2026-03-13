@@ -1,0 +1,9 @@
+paths:
+  input_dir: "path/to/your/excel/files"
+  output_file: "path/to/your/output/file/name.xlsx"
+
+validation:
+  required_columns: ["Column 1", "Column 2", "Column 3", "Column 4"]
+  font_name: "Font Name"
+  font_size: 12
+  target_col_name: "Target Column Name"

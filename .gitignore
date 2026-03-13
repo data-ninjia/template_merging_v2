@@ -1,0 +1,26 @@
+# Python virtual environments
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Excel data (CONFIDENTIAL)
+*.xlsx
+*.xls
+*.csv
+data/
+data_edited1/
+output/
+
+# Logs
+*.log
+logs/
+*.txt
+pipeline_log.txt
+
+# Local configuration files
+config.yaml
